@@ -961,6 +961,21 @@
              "updatedAt":"2024-10-17T07:52:08+07:00",
              "itemsInBundleWithData":[
                 {
+                   "_id":"66598cda05beca0035ff6e1c",
+                   "shortCode":"Hunter_Charlotte",
+                   "itemType":7,
+                   "tags":[
+                      "character",
+                      "hunter"
+                   ],
+                   "thumbnailPath":"",
+                   "isActive":true,
+                   "title":"Charlotte",
+                   "description":"Charlotte",
+                   "createdAt":"2024-05-31T15:39:54+07:00",
+                   "updatedAt":"2024-07-11T11:01:36+07:00"
+                },
+                {
                    "_id":"6659a69b05beca0035ff6e1d",
                    "shortCode":"Skin_Charlotte_D_Default",
                    "itemType":2,
@@ -976,21 +991,6 @@
                    "description":"default",
                    "createdAt":"2024-05-31T17:29:47+07:00",
                    "updatedAt":"2024-07-11T00:38:43+07:00"
-                },
-                {
-                   "_id":"66598cda05beca0035ff6e1c",
-                   "shortCode":"Hunter_Charlotte",
-                   "itemType":7,
-                   "tags":[
-                      "character",
-                      "hunter"
-                   ],
-                   "thumbnailPath":"",
-                   "isActive":true,
-                   "title":"Charlotte",
-                   "description":"Charlotte",
-                   "createdAt":"2024-05-31T15:39:54+07:00",
-                   "updatedAt":"2024-07-11T11:01:36+07:00"
                 }
              ]
           },
